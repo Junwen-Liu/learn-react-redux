@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bugs":{
-    "url": "https://github.com/fetchi/learn-react-redux/issues"
+    "url": "http://10.21.82.149:3000/junwen/react-redux-learn/issues"
   },
   "repository": {
     "type": "git",
