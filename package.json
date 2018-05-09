@@ -1,0 +1,15 @@
+{
+  "name": "react-redux-learn",
+  "version": "1.0.0",
+  "description": "This is to learn the react-redux programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://10.21.82.149:3000/junwen/react-redux-learn.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
