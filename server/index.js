@@ -1,6 +1,6 @@
 const http = require('http');
 
-const PORT = 8090;
+const PORT = process.env.npm_package_myWebServer_port || 8090;
 
 http.createServer((req, res)=>{
   console.log(`received request for ${req.url}`);
